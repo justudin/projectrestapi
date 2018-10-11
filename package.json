@@ -1,0 +1,15 @@
+{
+  "name": "project-rest-api",
+  "description": "A Stateless NodeJS and MongoDB RestFull API for creating the projects and contents",
+  "author": "Muhammad Syafrudin <just.udin@yahoo.com> (www.github.com/justudin)",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.15.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^6.2.0",
+    "mongoose": "~4.4.17",
+    "morgan": "~1.7.0",
+    "package.json": "^2.0.1"
+  }
+}
