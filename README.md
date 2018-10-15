@@ -1,5 +1,9 @@
-# projectrestapi
+# Projectrestapi
 Rest API with stateless authentication build on NodeJS + ExpressJS + MongoDB
+
+# Technologies used
+- MongoDB - https://docs.mongodb.com/manual/tutorial/
+- NodeJS - https://nodejs.org/en/
 
 # How to use
 
